@@ -1,0 +1,35 @@
+Arguments: 
+  F:\Program Files\node8.11.1\node.exe C:\Users\ytj\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add babel
+
+PATH: 
+  F:\Program Files\perl\site\bin;F:\Program Files\perl\bin;F:\Program Files\python3.6.4\Scripts\;F:\Program Files\python3.6.4\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;D:\UntraEdite;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;F:\Program Files\Vim\vim80;F:\0000\soft\plugins\vim\ctags57;F:\Program Files\GnuWin32\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;F:\0000\path;F:\Program Files\nvm;F:\0000\nodejs;F:\Program Files\node8.11.1\;F:\anconda;F:\anconda\Library\mingw-w64\bin;F:\anconda\Library\usr\bin;F:\anconda\Library\bin;F:\anconda\Scripts;D:\Program Files\Tools\WinNT;D:\Program Files\MSDev98\Bin;D:\Program Files\Tools;D:\Program Files6.0\Setup\VC98\bin;.;C:\java8.0\jdk\bin;D:\apache-tomcat-7.0.79\bin;D:\A-OftenUse\SoftWare\JUDE-Community_v5.5.2_CN_Green；;D:\Bandizip\;D:\MinGW\bin;C:\Users\ytj\AppData\Local\Microsoft\WindowsApps;D:\AndroidWorkSpace\SDK\platform-tools;F:\QT\5.10.0\mingw53_32\bin;F:\QT\Tools\mingw530_32\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;F:\0000\path;C:\Program Files\Mozilla Firefox;F:\Program Files\Fiddler;F:\Program Files\Microsoft VS Code\bin;F:\Program Files\Git\bin;C:\Users\ytj\AppData\Roaming\npm;F:\Program Files\node8.11.1;
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.11.1
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  {
+    "name": "ES6",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:lyreal666/ES6-notes.git",
+    "author": "lyreal666 <2713151713@qq.com>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.npm.taobao.org registry.npm.taobao.org:443
+      at errnoException (dns.js:50:10)
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:92:26)

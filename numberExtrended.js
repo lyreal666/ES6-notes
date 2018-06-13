@@ -4,6 +4,8 @@
  *
  */
 
+varOut = 1;
+
 let debug = console.log;
 
 //-----------------------------八进制 和 二进制---------------------------------//
@@ -58,6 +60,7 @@ debug(Number.isInteger(5E-325)); // 太接近0了,被视作0
  * 2的-52放实际上是javaScript能表示的最小精度
  * 所以误差范围小于它可以被认为没误差
  */
+debug('------------------')
 debug(Number.EPSILON === Math.pow(2, -52)); // true
 debug(0.1 + 0.2 === 0.3); // false
 
@@ -65,8 +68,8 @@ let isEqual = (left, right) => {
     return Math.abs(left - right) < Number.EPSILON * Math.pow(2, 2);
 };
 
-debug(isEqual(0.1 + 0.2, 0.3));
-debug(isEqual(0.3 + 0.6, 0.9));
+debug(isEqual(0.1 + 0.2, 0.3)); // true
+debug(isEqual(0.3 + 0.6, 0.9)); // true
 
 
 //----------------------isSafeInteger------------------//

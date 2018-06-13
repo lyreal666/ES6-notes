@@ -4,7 +4,9 @@
 *
 */
 
-let debug = console.log;
+const debug = (...args) => {
+    console.log(args.reduce((x, y) => x + y + ' ', ''));
+}
 
 //-------------------------default value----------------------------//
 // ES5
@@ -188,19 +190,43 @@ debug([4, 11, 6].sort((x, y) => x - y));
 
 // 注意事项
 // 箭头函数没有自己的this,只能调用外部的this
-function foo() {
-    setTimeout(() => {
-        console.log('id:', this.id);
-    }, 100);
+let ob1 = {
+    x: 1,
+    f: function testThisExits() {
+        return (() => {
+            return (() => {
+                let x = 6;
+                return (() => this.x)();
+            })();
+        })();
+    }
+};
+debug(`this.x: ${ob1.f()}`); // 1
+
+// arrow function没有arguments
+const outF = function () {
+    arguments = 'outer args';
+    debug(((innerArgs) => arguments)());
+};
+outF(); // outer args
+
+// 由于没有this所以不能用call,bind,apply
+// 除了this，以下三个变量在箭头函数之中也是不存在的，指向外层函数的对应变量：arguments、super、new.target。
+
+
+//------------------------嵌套的箭头函数--------------------------------//
+const insert = value => ({
+    into: (...array) => ({
+        after: afterValue => {
+            array.splice(array.indexOf(afterValue) + 1, 0, value);
+            return array;
+        }
+    })
+});
+debug('insert: ' + Array.isArray(insert(2).into(1, 3).after(1))); // [1, 2, 3]
+const pipe = (...funcs) => {
+    funcs.reduce((lf, rf) => rf(lf()))
 }
-
-var id = 21;
-
-
-foo.call({ id: 42 });
-
-
-
 
 
 
