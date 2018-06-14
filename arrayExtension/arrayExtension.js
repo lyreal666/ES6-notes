@@ -15,6 +15,9 @@ let arr = [1, 2, 3, 4];
 console.log(1, 2, 3, 4); // 1 2 3 4
 console.log(...arr); // 1 2 3 4
 
+let [a, ...b] =  [1, 2, 3, 4];
+console.log(b);
+
 /**
  * 用途:
  * 1. 当一个函数需要的多个参数刚好组成了一个数组时
@@ -325,6 +328,6 @@ forEach(), filter(), reduce(), every() 和some()都会跳过空位。
 map()会跳过空位，但会保留这个值
 join()和toString()会将空位视为undefined，而undefined和null会被处理成空字符串。
  */
-git
+
 // ES6 则是明确将空位转为undefined。
 // 由于空位的处理规则非常不统一，所以建议避免出现空位。
