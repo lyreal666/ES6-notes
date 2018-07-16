@@ -106,8 +106,11 @@
       <file leaf-file-name="objectExtension.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/objectExtension/objectExtension.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+            <state relative-caret-position="419">
+              <caret line="308" lean-forward="true" selection-start-line="308" selection-end-line="308" />
+              <folding>
+                <element signature="e#4048#5682#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -222,7 +225,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jsTests/test5" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -289,12 +292,12 @@
       <workItem from="1524106431599" duration="1202000" />
       <workItem from="1528797466495" duration="15614000" />
       <workItem from="1528901564403" duration="3830000" />
-      <workItem from="1528986934579" duration="1662000" />
+      <workItem from="1528986934579" duration="12293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109104000" />
+    <option name="totallyTimeSpent" value="119735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -305,7 +308,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28129396" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34036568" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32630098" />
       <window_info id="Favorites" order="2" sideWeight="0.501006" side_tool="true" weight="0.115587845" />
@@ -374,7 +377,53 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/letAndConst.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#75#108#0" />
+            <element signature="e#230#233#0" />
+            <element signature="e#338#394#0" />
+            <element signature="e#360#390#0" />
+            <element signature="e#484#540#0" />
+            <element signature="e#506#536#0" />
+            <element signature="e#585#659#0" />
+            <element signature="e#686#743#0" />
+            <element signature="e#905#1003#0" />
+            <element signature="e#1046#1107#0" />
+            <element signature="e#1153#1175#0" />
+            <element signature="e#1254#1260#0" />
+            <element signature="e#1519#1561#0" />
+            <element signature="e#1562#1639#0" />
+            <element signature="e#1685#1747#0" />
+            <element signature="e#1691#1745#0" />
+            <element signature="e#1826#1889#0" />
+            <element signature="e#1919#1989#0" />
+            <element signature="e#1935#1987#0" />
+            <element signature="e#2033#2110#0" />
+            <element signature="e#2060#2108#0" />
+            <element signature="e#2152#2231#0" />
+            <element signature="e#2249#2308#0" />
+            <element signature="e#2344#2358#0" />
+            <element signature="e#2376#2441#0" />
+            <element signature="e#2443#2470#0" />
+            <element signature="e#2679#2682#0" />
+            <element signature="e#2700#2776#0" />
+            <element signature="e#2721#2774#0" />
+            <element signature="e#2757#2768#0" />
+            <element signature="e#2777#2795#0" />
+            <element signature="e#2993#3042#0" />
+            <element signature="e#3142#3170#0" />
+            <element signature="e#3171#3231#0" />
+            <element signature="e#3349#3364#0" />
+            <element signature="e#3574#3606#0" />
+            <element signature="e#3651#3873#0" />
+            <element signature="e#3703#3871#0" />
+            <element signature="e#3775#3865#0" />
+            <element signature="e#3886#3949#0" />
+            <element signature="e#3911#3934#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/destructuringAssigment.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -459,7 +508,53 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/letAndConst.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#75#108#0" />
+            <element signature="e#230#233#0" />
+            <element signature="e#338#394#0" />
+            <element signature="e#360#390#0" />
+            <element signature="e#484#540#0" />
+            <element signature="e#506#536#0" />
+            <element signature="e#585#659#0" />
+            <element signature="e#686#743#0" />
+            <element signature="e#905#1003#0" />
+            <element signature="e#1046#1107#0" />
+            <element signature="e#1153#1175#0" />
+            <element signature="e#1254#1260#0" />
+            <element signature="e#1519#1561#0" />
+            <element signature="e#1562#1639#0" />
+            <element signature="e#1685#1747#0" />
+            <element signature="e#1691#1745#0" />
+            <element signature="e#1826#1889#0" />
+            <element signature="e#1919#1989#0" />
+            <element signature="e#1935#1987#0" />
+            <element signature="e#2033#2110#0" />
+            <element signature="e#2060#2108#0" />
+            <element signature="e#2152#2231#0" />
+            <element signature="e#2249#2308#0" />
+            <element signature="e#2344#2358#0" />
+            <element signature="e#2376#2441#0" />
+            <element signature="e#2443#2470#0" />
+            <element signature="e#2679#2682#0" />
+            <element signature="e#2700#2776#0" />
+            <element signature="e#2721#2774#0" />
+            <element signature="e#2757#2768#0" />
+            <element signature="e#2777#2795#0" />
+            <element signature="e#2993#3042#0" />
+            <element signature="e#3142#3170#0" />
+            <element signature="e#3171#3231#0" />
+            <element signature="e#3349#3364#0" />
+            <element signature="e#3574#3606#0" />
+            <element signature="e#3651#3873#0" />
+            <element signature="e#3703#3871#0" />
+            <element signature="e#3775#3865#0" />
+            <element signature="e#3886#3949#0" />
+            <element signature="e#3911#3934#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/destructuringAssigment.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -544,7 +639,53 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/letAndConst.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#75#108#0" />
+            <element signature="e#230#233#0" />
+            <element signature="e#338#394#0" />
+            <element signature="e#360#390#0" />
+            <element signature="e#484#540#0" />
+            <element signature="e#506#536#0" />
+            <element signature="e#585#659#0" />
+            <element signature="e#686#743#0" />
+            <element signature="e#905#1003#0" />
+            <element signature="e#1046#1107#0" />
+            <element signature="e#1153#1175#0" />
+            <element signature="e#1254#1260#0" />
+            <element signature="e#1519#1561#0" />
+            <element signature="e#1562#1639#0" />
+            <element signature="e#1685#1747#0" />
+            <element signature="e#1691#1745#0" />
+            <element signature="e#1826#1889#0" />
+            <element signature="e#1919#1989#0" />
+            <element signature="e#1935#1987#0" />
+            <element signature="e#2033#2110#0" />
+            <element signature="e#2060#2108#0" />
+            <element signature="e#2152#2231#0" />
+            <element signature="e#2249#2308#0" />
+            <element signature="e#2344#2358#0" />
+            <element signature="e#2376#2441#0" />
+            <element signature="e#2443#2470#0" />
+            <element signature="e#2679#2682#0" />
+            <element signature="e#2700#2776#0" />
+            <element signature="e#2721#2774#0" />
+            <element signature="e#2757#2768#0" />
+            <element signature="e#2777#2795#0" />
+            <element signature="e#2993#3042#0" />
+            <element signature="e#3142#3170#0" />
+            <element signature="e#3171#3231#0" />
+            <element signature="e#3349#3364#0" />
+            <element signature="e#3574#3606#0" />
+            <element signature="e#3651#3873#0" />
+            <element signature="e#3703#3871#0" />
+            <element signature="e#3775#3865#0" />
+            <element signature="e#3886#3949#0" />
+            <element signature="e#3911#3934#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/destructuringAssigment.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -629,7 +770,53 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/letAndConst.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#75#108#0" />
+            <element signature="e#230#233#0" />
+            <element signature="e#338#394#0" />
+            <element signature="e#360#390#0" />
+            <element signature="e#484#540#0" />
+            <element signature="e#506#536#0" />
+            <element signature="e#585#659#0" />
+            <element signature="e#686#743#0" />
+            <element signature="e#905#1003#0" />
+            <element signature="e#1046#1107#0" />
+            <element signature="e#1153#1175#0" />
+            <element signature="e#1254#1260#0" />
+            <element signature="e#1519#1561#0" />
+            <element signature="e#1562#1639#0" />
+            <element signature="e#1685#1747#0" />
+            <element signature="e#1691#1745#0" />
+            <element signature="e#1826#1889#0" />
+            <element signature="e#1919#1989#0" />
+            <element signature="e#1935#1987#0" />
+            <element signature="e#2033#2110#0" />
+            <element signature="e#2060#2108#0" />
+            <element signature="e#2152#2231#0" />
+            <element signature="e#2249#2308#0" />
+            <element signature="e#2344#2358#0" />
+            <element signature="e#2376#2441#0" />
+            <element signature="e#2443#2470#0" />
+            <element signature="e#2679#2682#0" />
+            <element signature="e#2700#2776#0" />
+            <element signature="e#2721#2774#0" />
+            <element signature="e#2757#2768#0" />
+            <element signature="e#2777#2795#0" />
+            <element signature="e#2993#3042#0" />
+            <element signature="e#3142#3170#0" />
+            <element signature="e#3171#3231#0" />
+            <element signature="e#3349#3364#0" />
+            <element signature="e#3574#3606#0" />
+            <element signature="e#3651#3873#0" />
+            <element signature="e#3703#3871#0" />
+            <element signature="e#3775#3865#0" />
+            <element signature="e#3886#3949#0" />
+            <element signature="e#3911#3934#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/destructuringAssigment.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -714,7 +901,53 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/letAndConst.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#75#108#0" />
+            <element signature="e#230#233#0" />
+            <element signature="e#338#394#0" />
+            <element signature="e#360#390#0" />
+            <element signature="e#484#540#0" />
+            <element signature="e#506#536#0" />
+            <element signature="e#585#659#0" />
+            <element signature="e#686#743#0" />
+            <element signature="e#905#1003#0" />
+            <element signature="e#1046#1107#0" />
+            <element signature="e#1153#1175#0" />
+            <element signature="e#1254#1260#0" />
+            <element signature="e#1519#1561#0" />
+            <element signature="e#1562#1639#0" />
+            <element signature="e#1685#1747#0" />
+            <element signature="e#1691#1745#0" />
+            <element signature="e#1826#1889#0" />
+            <element signature="e#1919#1989#0" />
+            <element signature="e#1935#1987#0" />
+            <element signature="e#2033#2110#0" />
+            <element signature="e#2060#2108#0" />
+            <element signature="e#2152#2231#0" />
+            <element signature="e#2249#2308#0" />
+            <element signature="e#2344#2358#0" />
+            <element signature="e#2376#2441#0" />
+            <element signature="e#2443#2470#0" />
+            <element signature="e#2679#2682#0" />
+            <element signature="e#2700#2776#0" />
+            <element signature="e#2721#2774#0" />
+            <element signature="e#2757#2768#0" />
+            <element signature="e#2777#2795#0" />
+            <element signature="e#2993#3042#0" />
+            <element signature="e#3142#3170#0" />
+            <element signature="e#3171#3231#0" />
+            <element signature="e#3349#3364#0" />
+            <element signature="e#3574#3606#0" />
+            <element signature="e#3651#3873#0" />
+            <element signature="e#3703#3871#0" />
+            <element signature="e#3775#3865#0" />
+            <element signature="e#3886#3949#0" />
+            <element signature="e#3911#3934#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/destructuringAssigment.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -799,7 +1032,53 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/letAndConst.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#75#108#0" />
+            <element signature="e#230#233#0" />
+            <element signature="e#338#394#0" />
+            <element signature="e#360#390#0" />
+            <element signature="e#484#540#0" />
+            <element signature="e#506#536#0" />
+            <element signature="e#585#659#0" />
+            <element signature="e#686#743#0" />
+            <element signature="e#905#1003#0" />
+            <element signature="e#1046#1107#0" />
+            <element signature="e#1153#1175#0" />
+            <element signature="e#1254#1260#0" />
+            <element signature="e#1519#1561#0" />
+            <element signature="e#1562#1639#0" />
+            <element signature="e#1685#1747#0" />
+            <element signature="e#1691#1745#0" />
+            <element signature="e#1826#1889#0" />
+            <element signature="e#1919#1989#0" />
+            <element signature="e#1935#1987#0" />
+            <element signature="e#2033#2110#0" />
+            <element signature="e#2060#2108#0" />
+            <element signature="e#2152#2231#0" />
+            <element signature="e#2249#2308#0" />
+            <element signature="e#2344#2358#0" />
+            <element signature="e#2376#2441#0" />
+            <element signature="e#2443#2470#0" />
+            <element signature="e#2679#2682#0" />
+            <element signature="e#2700#2776#0" />
+            <element signature="e#2721#2774#0" />
+            <element signature="e#2757#2768#0" />
+            <element signature="e#2777#2795#0" />
+            <element signature="e#2993#3042#0" />
+            <element signature="e#3142#3170#0" />
+            <element signature="e#3171#3231#0" />
+            <element signature="e#3349#3364#0" />
+            <element signature="e#3574#3606#0" />
+            <element signature="e#3651#3873#0" />
+            <element signature="e#3703#3871#0" />
+            <element signature="e#3775#3865#0" />
+            <element signature="e#3886#3949#0" />
+            <element signature="e#3911#3934#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/destructuringAssigment.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -842,7 +1121,53 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/letAndConst.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#75#108#0" />
+            <element signature="e#230#233#0" />
+            <element signature="e#338#394#0" />
+            <element signature="e#360#390#0" />
+            <element signature="e#484#540#0" />
+            <element signature="e#506#536#0" />
+            <element signature="e#585#659#0" />
+            <element signature="e#686#743#0" />
+            <element signature="e#905#1003#0" />
+            <element signature="e#1046#1107#0" />
+            <element signature="e#1153#1175#0" />
+            <element signature="e#1254#1260#0" />
+            <element signature="e#1519#1561#0" />
+            <element signature="e#1562#1639#0" />
+            <element signature="e#1685#1747#0" />
+            <element signature="e#1691#1745#0" />
+            <element signature="e#1826#1889#0" />
+            <element signature="e#1919#1989#0" />
+            <element signature="e#1935#1987#0" />
+            <element signature="e#2033#2110#0" />
+            <element signature="e#2060#2108#0" />
+            <element signature="e#2152#2231#0" />
+            <element signature="e#2249#2308#0" />
+            <element signature="e#2344#2358#0" />
+            <element signature="e#2376#2441#0" />
+            <element signature="e#2443#2470#0" />
+            <element signature="e#2679#2682#0" />
+            <element signature="e#2700#2776#0" />
+            <element signature="e#2721#2774#0" />
+            <element signature="e#2757#2768#0" />
+            <element signature="e#2777#2795#0" />
+            <element signature="e#2993#3042#0" />
+            <element signature="e#3142#3170#0" />
+            <element signature="e#3171#3231#0" />
+            <element signature="e#3349#3364#0" />
+            <element signature="e#3574#3606#0" />
+            <element signature="e#3651#3873#0" />
+            <element signature="e#3703#3871#0" />
+            <element signature="e#3775#3865#0" />
+            <element signature="e#3886#3949#0" />
+            <element signature="e#3911#3934#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/destructuringAssigment.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -885,7 +1210,53 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/letAndConst.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#75#108#0" />
+            <element signature="e#230#233#0" />
+            <element signature="e#338#394#0" />
+            <element signature="e#360#390#0" />
+            <element signature="e#484#540#0" />
+            <element signature="e#506#536#0" />
+            <element signature="e#585#659#0" />
+            <element signature="e#686#743#0" />
+            <element signature="e#905#1003#0" />
+            <element signature="e#1046#1107#0" />
+            <element signature="e#1153#1175#0" />
+            <element signature="e#1254#1260#0" />
+            <element signature="e#1519#1561#0" />
+            <element signature="e#1562#1639#0" />
+            <element signature="e#1685#1747#0" />
+            <element signature="e#1691#1745#0" />
+            <element signature="e#1826#1889#0" />
+            <element signature="e#1919#1989#0" />
+            <element signature="e#1935#1987#0" />
+            <element signature="e#2033#2110#0" />
+            <element signature="e#2060#2108#0" />
+            <element signature="e#2152#2231#0" />
+            <element signature="e#2249#2308#0" />
+            <element signature="e#2344#2358#0" />
+            <element signature="e#2376#2441#0" />
+            <element signature="e#2443#2470#0" />
+            <element signature="e#2679#2682#0" />
+            <element signature="e#2700#2776#0" />
+            <element signature="e#2721#2774#0" />
+            <element signature="e#2757#2768#0" />
+            <element signature="e#2777#2795#0" />
+            <element signature="e#2993#3042#0" />
+            <element signature="e#3142#3170#0" />
+            <element signature="e#3171#3231#0" />
+            <element signature="e#3349#3364#0" />
+            <element signature="e#3574#3606#0" />
+            <element signature="e#3651#3873#0" />
+            <element signature="e#3703#3871#0" />
+            <element signature="e#3775#3865#0" />
+            <element signature="e#3886#3949#0" />
+            <element signature="e#3911#3934#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/regex.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -1009,8 +1380,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/objectExtension/objectExtension.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        <state relative-caret-position="419">
+          <caret line="308" lean-forward="true" selection-start-line="308" selection-end-line="308" />
+          <folding>
+            <element signature="e#4048#5682#0" />
+          </folding>
         </state>
       </provider>
     </entry>
